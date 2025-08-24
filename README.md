@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML,Python,Java**
 
-- 📫 How to reach me **manasareddy222003@gmail.com**
+- 📫 How to reach me **22manasareddy@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
